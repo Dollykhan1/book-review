@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
-import { CiLocationOn } from "react-icons/ci";
+import { CiLocationOn } from 'react-icons/ci';
+
 import { IoPeopleSharp } from "react-icons/io5";
 import { MdOutlineContactPage } from "react-icons/md";
 
