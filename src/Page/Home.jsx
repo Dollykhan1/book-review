@@ -7,7 +7,7 @@ const Home = () => {
 const books = useLoaderData()
 const navigate = useNavigate()
 const handlerClick = () => {
-  navigate("/booklist") 
+  navigate("/booklist")
 }
 
   

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 
 import { CiStar } from "react-icons/ci";
 import { Link } from "react-router-dom";
